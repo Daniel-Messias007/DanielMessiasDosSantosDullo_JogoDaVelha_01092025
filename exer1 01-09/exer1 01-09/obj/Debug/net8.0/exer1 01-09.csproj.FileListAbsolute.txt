@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.exe
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.deps.json
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.runtimeconfig.json
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.dll
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.pdb
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.AssemblyInfo.cs
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.dll
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\refint\exer1 01-09.dll
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.pdb
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.genruntimeconfig.cache
+C:\Users\user\Desktop\exer1 01-09\exer1 01-09\obj\Debug\net8.0\ref\exer1 01-09.dll
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.AssemblyInfoInputs.cache
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.AssemblyInfo.cs
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.csproj.CoreCompileInputs.cache
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.dll
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\refint\exer1 01-09.dll
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.pdb
+D:\1 ano etec\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.exe
+D:\1 ano etec\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.deps.json
+D:\1 ano etec\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.runtimeconfig.json
+D:\1 ano etec\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.dll
+D:\1 ano etec\exer1 01-09\exer1 01-09\bin\Debug\net8.0\exer1 01-09.pdb
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\exer1 01-09.genruntimeconfig.cache
+D:\1 ano etec\exer1 01-09\exer1 01-09\obj\Debug\net8.0\ref\exer1 01-09.dll
